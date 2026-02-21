@@ -1,16 +1,52 @@
 ## Hi there 👋
 
-<!--
-**aisaacjohnn/aisaacjohnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm a Software Developer
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Student | Aspiring AI Engineer  
+💻 Interested in Python, Web Development, and Machine Learning  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I am learning software development and building real-world projects.  
+I enjoy solving problems and creating useful applications.
+
+Currently learning:
+- Python  
+- Data Structures  
+- Machine Learning basics  
+
+---
+
+## 🛠️ Skills
+
+- Python  
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+- Linux  
+- Basic SQL  
+
+---
+
+## 📂 Projects
+
+### 🔹 Project 1 — Password Manager (Python)
+A desktop app to store and generate passwords.  
+👉 Repo: https://github.com/YOUR_USERNAME/password-manager  
+
+### 🔹 Project 2 — Coffee Machine Simulator (Python)
+Console-based OOP project.  
+👉 Repo: https://github.com/YOUR_USERNAME/coffee-machine  
+
+### 🔹 Project 3 — Calculator (Python)
+GUI calculator with Tkinter.  
+👉 Repo: https://github.com/YOUR_USERNAME/calculator  
+
+---
+
+## 📫 Contact
+
+- Email: a.isaacjohnn@gmail.com  
+- LinkedIn: www.linkedin.com/in/a-isaacjohn
+- GitHub: https://github.com/aisaacjohnn
