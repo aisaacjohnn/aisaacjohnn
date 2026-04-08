@@ -31,17 +31,8 @@ Currently learning:
 
 ## 📂 Projects
 
-### 🔹 Project 1 — Password Manager (Python)
-A desktop app to store and generate passwords.  
-👉 Repo: https://github.com/YOUR_USERNAME/password-manager  
-
-### 🔹 Project 2 — Coffee Machine Simulator (Python)
-Console-based OOP project.  
-👉 Repo: https://github.com/YOUR_USERNAME/coffee-machine  
-
-### 🔹 Project 3 — Calculator (Python)
-GUI calculator with Tkinter.  
-👉 Repo: https://github.com/YOUR_USERNAME/calculator  
+### 🔹 Project 1 — Pdf Merger
+Work In Progress
 
 ---
 
